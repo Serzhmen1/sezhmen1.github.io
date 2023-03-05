@@ -540,7 +540,7 @@ img {
     width: 30px;
     margin: 6px;
     cursor: pointer;
-    background-color: #ddd;
+    background-color: #000;
     opacity: 0.8;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease; }
